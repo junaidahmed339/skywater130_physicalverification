@@ -49,7 +49,7 @@
 
 - xschem
 First of all, xschem steup is checked by using the following commad:  
-^^xschem^^
+<i>xschem</i>
 xschem –tcl test.tcl -q
 
 ![This is an image](lab1/1.PNG)
