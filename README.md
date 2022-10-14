@@ -137,7 +137,9 @@ Port index is meta data so it cannt be stored in gds. It can be checked using fo
 <img src="lab2/4.PNG" width="500" height="200">     
 Meta data can be found in lef file.  
 - </i>lef read /usr/share/pdk/sky130A/libs.ref/sky130_fd_sc_hd/lef/sky130_fd_sc_hd.lef</i>  
-<img src="lab2/5.PNG" width="500" height="200">   
+<img src="lab2/5.PNG" width="500" height="200"> 
+For port consistency we can read from .spice file
+- </i> readspice /usr/share/pdk/sky130A/libs.ref/sky130_fd_sc_hd/spice/sky130_fd_sc_hd.spice</i>  
 <img src="lab2/6.PNG" width="500" height="200">   
 <img src="lab2/7.PNG" width="500" height="200">   
 
