@@ -87,7 +87,10 @@ magic is checked by using the following commad:
 <img src="lab1/6.PNG" width="600" height="400">  
 
 ###  PV_D1SK2_L3 - Creating Simple Schematic In Xschem
-Schematic of inverter has been designed in xschem, two transistor symbols have been used: pfet_01v8 and nfet_01v8. 
+Schematic of inverter has been designed in xschem, two transistor symbols have been used: pfet_01v8 and nfet_01v8. Transistor parameters have been modified. Final schematic have been exported as symbol for simulation in testbench.
 <img src="lab1/7.PNG" width="800" height="400">  
 
 ###  PV_D1SK2_L4 - Creating Symbol And Exporting Schematic In Xschem
+A testbench circuit has been developed and schematic of inverter has been imported. Two power sources has been applied, one with constant volatage source, because the pfet and nfet are designed for that and second source voltage is sweep on the gate terminal of each device to check the final outcome.
+<img src="lab1/8.PNG" width="800" height="400">  
+<img src="lab1/9.PNG" width="800" height="400">  
