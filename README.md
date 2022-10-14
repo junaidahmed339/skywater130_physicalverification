@@ -49,19 +49,19 @@
 
 #### xschem (for schemtic design)  
 First of all, xschem steup is checked by using the following commad:  
-<i>xschem</i>  
-<i>xschem –tcl test.tcl -q</i>  
+- <i>xschem</i>  
+- <i>xschem –tcl test.tcl -q</i>  
 ![This is an image](lab1/1.PNG)
 ![This is an image](lab1/2.PNG)
 #### netgen (for LVS)
 netgen is checked by using the following commad:  
-<i>netgen</i>  
+- <i>netgen</i>  
 #### ngspice (for simulation)
 ngspice is checked by using the following commad:  
-<i>ngspice</i>  
+- <i>ngspice</i>  
 #### magic (for layout design and extraction)
 magic is checked by using the following commad:  
 <i>magic</i>  
-</i>  magic -noconsole</i>  
-</i>  magic -dnull -noconsole  (without graphics)</i>  
-</i>  magic -dnull -noconsole test.tcl</i>  
+- </i>  magic -noconsole</i>  
+- </i>  magic -dnull -noconsole  (without graphics)</i>  
+- </i>  magic -dnull -noconsole test.tcl</i>  
