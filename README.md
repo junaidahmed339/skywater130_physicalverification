@@ -134,10 +134,10 @@ Port index is meta data so it cannt be stored in gds. It can be checked using fo
 - </i>port 1 name</i>
 - </i>port 1 class</i>
 - </i>port 1 use</i>
-<img src="lab2/4.PNG" width="300" height="400">   
-<img src="lab2/5.PNG" width="300" height="400">   
-<img src="lab2/6.PNG" width="300" height="400">   
-<img src="lab2/7.PNG" width="300" height="400">   
+<img src="lab2/4.PNG" width="500" height="300">   
+<img src="lab2/5.PNG" width="500" height="300">   
+<img src="lab2/6.PNG" width="500" height="300">   
+<img src="lab2/7.PNG" width="500" height="300">   
 
 ### PV_D2SK2_L3 - Abstract Views
 ### PV_D2SK2_L4 - Basic Extraction
