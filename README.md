@@ -119,8 +119,10 @@ For comparison in netgen we have used following command:
 - </i>cif istyle xxx: current and all possible styles</i>
 - </i>gds read /usr/share/pdk/sky130A/libs.ref/sky130_fd_sc_hd/gds/sky130_fd_sc_hd.gds</i>
 After loading gds, we have seleted a standard cell: sky130_fd_sc_hd__and2_1
-<img src="lab2/1.PNG" width="800" height="400"> 
+<img src="lab2/2.PNG" width="800" height="400"> 
+Now change the style to vendor and read again
 - </i>cif istyle gds(vendor)</i>
+<img src="lab2/1.PNG" width="800" height="400"> 
 - </i>gds noduplicates</i>
 - </i>gds noduplicates true</i>
 
