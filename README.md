@@ -125,6 +125,7 @@ Now change the style to vendor and read again
 <img src="lab2/1.PNG" width="800" height="400">   
 - </i>gds noduplicates (check cells can be override or not)</i> 
 - </i>gds noduplicates true (current cell will not update)</i>
+<img src="lab2/3.PNG" width="600" height="400">   
 
 ### PV_D2SK2_L2 - Ports
 ### PV_D2SK2_L3 - Abstract Views
