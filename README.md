@@ -30,3 +30,5 @@ PV_D3SK2_L10 - Latch-up And Antenna Rules
 PV_D3SK2_L11 - Lab For Density Rules
 Day 4 - Understanding PNR and physical verification (Bonus Videos)
 Day 5 - Running LVS
+
+![This is an image](lab1/1.PNG)
