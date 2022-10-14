@@ -52,6 +52,7 @@ First of all, xschem steup is checked by using the following commad:
 - <i>xschem</i>  
 - <i>xschem –tcl test.tcl -q</i>  
 ![This is an image](lab1/1.PNG)
+<img src="lab1/1.PNG" width="100" height="100">
 ![This is an image](lab1/2.PNG)
 #### netgen (for LVS)
 netgen is checked by using the following commad:  
