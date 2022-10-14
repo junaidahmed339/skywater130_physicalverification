@@ -57,7 +57,6 @@ First of all, xschem steup is checked by using the following commad:
 netgen is checked by using the following commad:  
 - <i>netgen</i>  
 ![This is an image](lab1/netgen.PNG)
-<img src="lab1/netgen.PNG" width="400">
 #### ngspice (for simulation)
 ngspice is checked by using the following commad:  
 - <i>ngspice</i>  
@@ -69,3 +68,15 @@ magic is checked by using the following commad:
 - </i>  magic -dnull -noconsole  (without graphics)</i>  
 - </i>  magic -dnull -noconsole test.tcl</i>  
 ![This is an image](lab1/magic.PNG)
+
+### PV_D1SK2_L2 - Creating Sky130 Device Layout In Magic
+For layout cration we have used the following commands:
+- </i> magic -d XR (icons colors are saturated)</i> 
+- </i>magic -d OGL</i> 
+- </i>U -> undo</i> 
+- </i>P -> fill color</i> 
+- </i>Z zoom in</i> 
+- </i>shift+Z (zoom out)</i> 
+- </i>E to erase</i> 
+- </i>:erase on command window</i>  
+![This is an image](lab1/3.PNG)
