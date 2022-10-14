@@ -79,7 +79,7 @@ magic is checked by using the following commad:
 - </i>shift+Z (zoom out)</i> 
 - </i>E to erase</i> 
 - </i>:erase on command window</i>  
-![This is an image](lab1/3.PNG)
+![This is an image](lab1/3.PNG)  
 
 ####Modifying properties of sky130 standard cells:
-<img src="lab1/4.PNG" width="600" height="400">
+<img src="lab1/4.PNG" width="600" height="400">  
