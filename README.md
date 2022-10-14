@@ -110,3 +110,23 @@ Now layout is complete, at this point we are not checking drc errors, although t
 For comparison in netgen we have used following command:
 - </i>netgen -batch lvs “../mag/inverter.spice inverter” “../xschem/inverter.spice inverter”</i>
 <img src="lab1/netgen_out.PNG" width="800" height="400">  
+
+
+## Lab2 (Labs for GDS read/write, extraction, DRC, LVS and XOR setup)
+### PV_D2SK2_L1 - GDS Read
+- </i>cif listall istyle: to get list of all known styles for gdsv
+- </i>cif list istyle: current set style</i>
+- </i>cif istyle xxx: current and all possible styles</i>
+- </i>gds read /usr/share/pdk/sky130A/libs.ref/sky130_fd_sc_hd/gds/sky130_fd_sc_hd.gds</i>
+After loading gds, we have seleted a standard cell: sky130_fd_sc_hd__and2_1
+<img src="lab2/1.PNG" width="800" height="400"> 
+- </i>cif istyle gds(vendor)</i>
+- </i>gds noduplicates</i>
+- </i>gds noduplicates true</i>
+
+### PV_D2SK2_L2 - Ports
+### PV_D2SK2_L3 - Abstract Views
+### PV_D2SK2_L4 - Basic Extraction
+### PV_D2SK2_L5 - Setup For DRC
+### PV_D2SK2_L6 - Setup For LVS
+### PV_D2SK2_L7 - Setup For XOR
