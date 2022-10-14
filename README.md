@@ -48,8 +48,8 @@
 ### PV_D1SK2_L1 - Check Tool Installations
 
 - xschem
-First of all, xschem steup is checked by using the following commad:
-xschem
+First of all, xschem steup is checked by using the following commad:  
+^^xschem^^
 xschem –tcl test.tcl -q
 
 ![This is an image](lab1/1.PNG)
