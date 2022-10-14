@@ -84,4 +84,10 @@ magic is checked by using the following commad:
 #### Modifying properties of sky130 standard cells:  
 <img src="lab1/4.PNG" width="800" height="400">  
 <img src="lab1/5.PNG" width="800" height="400">  
-<img src="lab1/6.PNG" width="800" height="400">  
+<img src="lab1/6.PNG" width="600" height="400">  
+
+###  PV_D1SK2_L3 - Creating Simple Schematic In Xschem
+Schematic of inverter has been designed in xschem, two transistor symbols have been used: pfet_01v8 and nfet_01v8. 
+<img src="lab1/7.PNG" width="800" height="400">  
+
+###  PV_D1SK2_L4 - Creating Symbol And Exporting Schematic In Xschem
