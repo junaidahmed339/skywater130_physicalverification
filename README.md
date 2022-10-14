@@ -94,3 +94,14 @@ Schematic of inverter has been designed in xschem, two transistor symbols have b
 A testbench circuit has been developed and schematic of inverter has been imported. Two power sources has been applied, one with constant volatage source, because the pfet and nfet are designed for that and second source voltage is sweep on the gate terminal of each device to check the final outcome.  
 <img src="lab1/8.PNG" width="600" height="400">    
 <img src="lab1/9.PNG" width="800" height="400">    
+
+###  PV_D1SK2_L5 - Importing Schematic To Layout And Inverter Layout Steps
+Now inverter netlist has been exported from xschem to magic as shown below, all blocks have been arragned and connection have been made.
+<img src="lab1/10.PNG" width="800" height="400">    
+<img src="lab1/11.PNG" width="800" height="400">    
+
+###  PV_D1SK2_L6 - Final DRC/LVS Checks And Post Layout Simulations
+extract do local
+extracl all
+ext2spice lvs
+ext2spice
