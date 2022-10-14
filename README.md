@@ -47,12 +47,9 @@
 ## Lab1 (Tool installation and basic LVS/DRC design flow)
 ### PV_D1SK2_L1 - Check Tool Installations
 
-
-
-   - PV_D1SK2_L2 - Creating Sky130 Device Layout In Magic
-   - PV_D1SK2_L3 - Creating Simple Schematic In Xschem
-   - PV_D1SK2_L4 - Creating Symbol And Exporting Schematic In Xschem
-   - PV_D1SK2_L5 - Importing Schematic To Layout And Inverter Layout Steps
-   - PV_D1SK2_L6 - Final DRC/LVS Checks And Post Layout Simulations
+- xschem
+First of all, xschem steup is checked by using the following commad:
+xschem
+xschem –tcl test.tcl -q
 
 ![This is an image](lab1/1.PNG)
