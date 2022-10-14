@@ -70,7 +70,7 @@ magic is checked by using the following commad:
 ![This is an image](lab1/magic.PNG)
 
 ### PV_D1SK2_L2 - Creating Sky130 Device Layout In Magic
-For layout cration we have used the following commands:
+####For layout cration we have used the following commands:
 - </i> magic -d XR (icons colors are saturated)</i> 
 - </i>magic -d OGL</i> 
 - </i>U -> undo</i> 
@@ -81,7 +81,5 @@ For layout cration we have used the following commands:
 - </i>:erase on command window</i>  
 ![This is an image](lab1/3.PNG)
 
-Modifying properties of sky130 standard cells:
-![This is an image](lab1/4.PNG)
-![This is an image](lab1/5.PNG)
-![This is an image](lab1/6.PNG)
+####Modifying properties of sky130 standard cells:
+<img src="https://lab1/4.PNG" width="600" height="400">
