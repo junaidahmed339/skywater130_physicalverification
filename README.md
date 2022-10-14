@@ -80,3 +80,8 @@ For layout cration we have used the following commands:
 - </i>E to erase</i> 
 - </i>:erase on command window</i>  
 ![This is an image](lab1/3.PNG)
+
+Modifying properties of sky130 standard cells:
+![This is an image](lab1/4.PNG)
+![This is an image](lab1/5.PNG)
+![This is an image](lab1/6.PNG)
