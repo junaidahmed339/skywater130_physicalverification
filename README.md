@@ -1,7 +1,8 @@
-# skywater130_physicalverification
+# Physical Verification using SKY130
+# Table of Contents
 
-PV_D1SK2_L1 - Check Tool Installations
-PV_D1SK2_L2 - Creating Sky130 Device Layout In Magic
+- PV_D1SK2_L1 - Check Tool Installations
+- PV_D1SK2_L2 - Creating Sky130 Device Layout In Magic
 PV_D1SK2_L3 - Creating Simple Schematic In Xschem
 PV_D1SK2_L4 - Creating Symbol And Exporting Schematic In Xschem
 PV_D1SK2_L5 - Importing Schematic To Layout And Inverter Layout Steps
