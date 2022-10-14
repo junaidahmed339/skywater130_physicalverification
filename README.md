@@ -83,3 +83,5 @@ magic is checked by using the following commad:
 
 #### Modifying properties of sky130 standard cells:  
 <img src="lab1/4.PNG" width="800" height="400">  
+<img src="lab1/5.PNG" width="800" height="400">  
+<img src="lab1/6.PNG" width="800" height="400">  
