@@ -106,3 +106,7 @@ Now layout is complete, at this point we are not checking drc errors, although t
 - </i>extracl all</i>
 - </i>ext2spice lvs (extract for lvs)</i>
 - </i>ext2spice (final extraction)</i>
+
+For comparison in netgen we have used following command:
+- </i>netgen -batch lvs “../mag/inverter.spice inverter” “../xschem/inverter.spice inverter”</i>
+<img src="lab1/netgen_out.PNG" width="800" height="400">  
