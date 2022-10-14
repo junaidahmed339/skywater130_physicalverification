@@ -2,12 +2,12 @@
 # Table of Contents
 
 - Lab1 
--- PV_D1SK2_L1 - Check Tool Installations
--- PV_D1SK2_L2 - Creating Sky130 Device Layout In Magic
--- PV_D1SK2_L3 - Creating Simple Schematic In Xschem
--- PV_D1SK2_L4 - Creating Symbol And Exporting Schematic In Xschem
--- PV_D1SK2_L5 - Importing Schematic To Layout And Inverter Layout Steps
--- PV_D1SK2_L6 - Final DRC/LVS Checks And Post Layout Simulations
+  1. PV_D1SK2_L1 - Check Tool Installations
+  2. PV_D1SK2_L2 - Creating Sky130 Device Layout In Magic
+  3. PV_D1SK2_L3 - Creating Simple Schematic In Xschem
+  4. PV_D1SK2_L4 - Creating Symbol And Exporting Schematic In Xschem
+  5. PV_D1SK2_L5 - Importing Schematic To Layout And Inverter Layout Steps
+  6. PV_D1SK2_L6 - Final DRC/LVS Checks And Post Layout Simulations
 
 
 PV_D2SK2_L1 - GDS Read
