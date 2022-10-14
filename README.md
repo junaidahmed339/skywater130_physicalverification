@@ -82,4 +82,4 @@ magic is checked by using the following commad:
 ![This is an image](lab1/3.PNG)
 
 ####Modifying properties of sky130 standard cells:
-<img src="https://lab1/4.PNG" width="600" height="400">
+<img src="lab1/4.PNG" width="600" height="400">
