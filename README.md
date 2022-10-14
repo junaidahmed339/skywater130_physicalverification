@@ -101,7 +101,8 @@ Now inverter netlist has been exported from xschem to magic as shown below, all 
 <img src="lab1/11.PNG" width="800" height="400">    
 
 ###  PV_D1SK2_L6 - Final DRC/LVS Checks And Post Layout Simulations
-extract do local
-extracl all
-ext2spice lvs
-ext2spice
+Now layout is complete, at this point we are not checking drc errors, although there is no drc error in this layout. The following commands are used for extract the final layout netlist for layout to schematic comparison:
+- </i>extract do local (extract in local directory)</i>
+- </i>extracl all</i>
+- </i>ext2spice lvs (extract for lvs)</i>
+- </i>ext2spice (final extraction)</i>
