@@ -305,11 +305,11 @@ DRC errors can be resolved by properly adjusting the blocks:
 <img src="lab3/exercise7/6.PNG" width="800" height="400"> 
 
 ### PV_D3SK2_L9 - Lab For Unimplemented Rules
-<img src="lab3/exercise7/1.PNG" width="800" height="400"> 
-<img src="lab3/exercise7/2.PNG" width="800" height="400"> 
-<img src="lab3/exercise7/3.PNG" width="800" height="400"> 
-<img src="lab3/exercise7/4_sealring_gds.PNG" width="800" height="400"> 
-<img src="lab3/exercise7/5_sealring.PNG" width="800" height="400"> 
+<img src="lab3/exercise8/1.PNG" width="800" height="400"> 
+<img src="lab3/exercise8/2.PNG" width="800" height="400"> 
+<img src="lab3/exercise8/3.PNG" width="800" height="400"> 
+<img src="lab3/exercise8/4_sealring_gds.PNG" width="800" height="400"> 
+<img src="lab3/exercise8/5_sealring.PNG" width="800" height="400"> 
 
   
 
