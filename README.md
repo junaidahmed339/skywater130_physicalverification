@@ -199,11 +199,9 @@ Fixing DRC errors in the layout:
 And gate subcell:  
 <img src="lab2/drc/4_andgate_subcell.PNG" width="800" height="400">    
 
-### PV_D2SK2_L6 - Setup For LVS
+### PV_D2SK2_L6 - Setup For LVS and PV_D2SK2_L7 - Setup For XOR
 Setting lvs using already available spice files for a specific gate usinf following command:  
 - </i>netgen -batch lvs “../mag/sky130_fd_sc_hd__and2_1.spice sky130_fd_sc_hd__and2_1” “/usr/share/pdk/sky130A/libs.ref/sky130_fd_sc_hd/spice/sky130_fd_sc_hd.spice sky130_fd_sc_hd__and2_1”</i>    
 <img src="lab2/lvs/5_netlish_comp.PNG" width="800" height="400">    
-Performing XOR to get mismatch:  
+Performing XOR to get mismatch on two layouts in magic to check whether they are same or not:  
 <img src="lab2/lvs/6.PNG" width="800" height="400">    
-
-### PV_D2SK2_L7 - Setup For XOR
