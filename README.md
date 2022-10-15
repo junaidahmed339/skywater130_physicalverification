@@ -246,10 +246,14 @@ Filling via with metal to fix drc:
 <img src="lab3/exercise3/2_filling_layer_via.PNG" width="800" height="400">      
 DRC error: hole area is small:  
 <img src="lab3/exercise3/3_hole_area_is_small.PNG" width="800" height="400">   
-Fixing hole are issue:  
+Fixing hole area issue:  
 <img src="lab3/exercise3/4_hole_drc_fixed.PNG" width="800" height="400">   
 
 ### PV_D3SK2_L4 - Lab For Minumum Area Rule And Minimum Hole Rule
+<img src="lab3/exercise4/1_fix_drc_nwell.PNG" width="800" height="400">  
+<img src="lab3/exercise4/2_fix_drc_pwell.PNG" width="800" height="400">  
+<img src="lab3/exercise4/4c_complete_nodrc.PNG" width="800" height="400"> 
+
 ### PV_D3SK2_L5 - Lab For Wells And Deep N-Well
 ### PV_D3SK2_L6 - Lab For Derived Layers
 ### PV_D3SK2_L7 - Lab For Paramterized And PDK Devices
