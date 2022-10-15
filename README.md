@@ -36,12 +36,10 @@
    - PV_D5SK2_L2 - LVS With Subcircuits
    - PV_D5SK2_L3 - LVS With Blackboxes Subcircuits
    - PV_D5SK2_L4 - LVS With SPICE Low Level Components
-   - PV_D5SK2_L5 - LVS For Small Analog Block - Power-On Reset - Part 1
-   - PV_D5SK2_L6 - LVS For Small Analog Block - Power-On Reset - Part 2
+   - PV_D5SK2_L5 and L6 - LVS For Small Analog Block - Power-On Reset - Part 1 and 2
    - PV_D5SK2_L7 - LVS Layout Vs Verilog For Standard Cell
    - PV_D5SK2_L8 - LVS For Macros
-   - PV_D5SK2_L9 - LVS Digital PLL - Part 1
-   - PV_D5SK2_L10 - LVS Digital PLL - Part 2
+   - PV_D5SK2_L9 and L10- LVS Digital PLL - Part 1 and 2
    - PV_D5SK2_L11 - LVS With Property Errors
 
 ## Lab1 (Tool installation and basic LVS/DRC design flow)
