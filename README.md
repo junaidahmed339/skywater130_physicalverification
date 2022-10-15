@@ -392,13 +392,15 @@ Now LVS passed again:
 <img src="lab4/exercise5/1_top_schematci.PNG" width="800" height="400">   
 Expand schematic:  
 <img src="lab4/exercise5/2_expand_schematic.PNG" width="800" height="400">   
-
-<img src="lab4/exercise5/3_xscheme_netlist.PNG" width="800" height="400"> 
-<img src="lab4/exercise5/4_magic_layout_for_netlist_ext.PNG" width="800" height="400"> 
-<img src="lab4/exercise5/5_netlist_From_spice.PNG" width="800" height="400"> 
+Generating netlist:  
+<img src="lab4/exercise5/3_xscheme_netlist.PNG" width="800" height="400">   
+Generating layout netlist:  
+<img src="lab4/exercise5/4_magic_layout_for_netlist_ext.PNG" width="800" height="400">   
+<img src="lab4/exercise5/5_netlist_From_spice.PNG" width="800" height="400">  
+Conparison failed:  
 <img src="lab4/exercise5/6_comparison_failed.PNG" width="800" height="400">
-
-<img src="lab4/exercise5/7_issue_with_pins_of_subcct.PNG" width="800" height="400"> 
+Issue:  
+<img src="lab4/exercise5/7_issue_with_pins_of_subcct.PNG" width="800" height="200"> 
 <img src="lab4/exercise5/8_modified_comp_script.PNG" width="800" height="400"> 
 <img src="lab4/exercise5/9_no_device_error_only_pin_error.PNG" width="800" height="400"> 
 <img src="lab4/exercise5/10_run_por_script.PNG" width="800" height="400"> 
