@@ -148,6 +148,13 @@ lef file is a library, have no concept of top level cell. Now by loading cells u
 - </i>lef read /usr/share/pdk/sky130A/libs.ref/sky130_fd_sc_hd/lef/sky130_fd_sc_hd.lef</i>  
 Abstract view of AND cell:
 <img src="lab2/abstract_view/8.PNG" width="500" height="200"> 
+<img src="lab2/abstract_view/9.PNG" width="500" height="200"> 
+<img src="lab2/abstract_view/10_writing_gds.PNG" width="500" height="200"> 
+<img src="lab2/abstract_view/11_read_gds.PNG" width="500" height="200"> 
+<img src="lab2/abstract_view/12_load_test.PNG" width="500" height="200"> 
+<img src="lab2/abstract_view/13_property.PNG" width="500" height="200"> 
+<img src="lab2/abstract_view/14_writen_sky130_cell.PNG" width="500" height="200"> 
+<img src="lab2/abstract_view/15_read_gds_after_writing.PNG" width="500" height="200"> 
 
 PV_D2SK2_L4 - Basic Extraction
 ### PV_D2SK2_L5 - Setup For DRC
