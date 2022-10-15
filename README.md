@@ -157,14 +157,26 @@ Abstract view of AND cell and usefull commands by using lef file:
 Now writing abstract view to gds and reading it back:  
 <img src="lab2/abstract_view/10_writing_gds.PNG" width="800" height="400"> 
 <img src="lab2/abstract_view/11_read_gds.PNG" width="800" height="400"> 
-Making cell writable and painting interconnect over the cell:
-loaded using vendor and default cif style:
+Making cell writable and painting interconnect over the cell:  
+loaded using vendor and default cif style:  
 <img src="lab2/abstract_view/12_load_test.PNG" width="800" height="400"> 
 <img src="lab2/abstract_view/13_property.PNG" width="800" height="400"> 
 <img src="lab2/abstract_view/14_writen_sky130_cell.PNG" width="800" height="400"> 
 <img src="lab2/abstract_view/15_read_gds_after_writing.PNG" width="800" height="400"> 
 
-PV_D2SK2_L4 - Basic Extraction
+### PV_D2SK2_L4 - Basic Extraction
+Now performing basic netlist extraction from magic. Defualt netlist, with capacitance netlist and with RC, netlist has been extracted using following commands:
+- </i>ext2spice lvs</i>
+- </i>ext2spice</i>
+- </i>ext2spice cthrush 0</i>
+- </i>extresist tolerance 10</i>
+- </i>extresist</i>
+
+<img src="lab2extraction/1_simple_extraction.PNG" width="800" height="400"> 
+<img src="lab2/extraction/2_c_extraction.PNG" width="800" height="400"> 
+<img src="lab2/extraction/3_enabled_extresist.PNG" width="800" height="400"> 
+<img src="lab2/extraction/3_enabled_resist.PNG" width="800" height="400"> 
+<img src="lab2/extraction/4_all_on.PNG" width="800" height="400"> 
 ### PV_D2SK2_L5 - Setup For DRC
 ### PV_D2SK2_L6 - Setup For LVS
 ### PV_D2SK2_L7 - Setup For XOR
