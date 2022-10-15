@@ -298,9 +298,10 @@ This issue is resolved by properly growing the box and filling with poly:
 In the below diagram, local interconnect was used and via is connected:  
 <img src="lab3/exercise7/4.PNG" width="800" height="400"> 
 
-In the layout VIAs are shown at different position but in the inner cell they exist at particular spaces:
-<img src="lab3/exercise7/Capture5.PNG" width="800" height="400"> 
-DRC errors can be resolved by properly adjusting the blocks:  
+In the layout VIAs are shown at different position but in the inner cell they exist at particular spaces:  
+<img src="lab3/exercise7/Capture5.PNG" width="800" height="400">   
+
+DRC errors can be resolved by properly adjusting the blocks:      
 <img src="lab3/exercise7/6.PNG" width="800" height="400"> 
 
 ### PV_D3SK2_L8 - Lab For Angle Error And Overlap Rule
