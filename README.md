@@ -203,3 +203,30 @@ Setting lvs using already available spice files for a specific gate usinf follow
 <img src="lab2/lvs/5_netlish_comp.PNG" width="800" height="400">    
 Performing XOR to get mismatch on two layouts in magic to check whether they are same or not:  
 <img src="lab2/lvs/6.PNG" width="800" height="400">    
+
+
+## Lab3 (Labs for all DRC rules)
+### PV_D3SK2_L1 - Lab For Width Rule And Spacing Rule  
+<img src="lab3/exercise1/1.PNG" width="800" height="400">   
+<img src="lab3/exercise1/2.PNG" width="800" height="400">   
+<img src="lab3/exercise1/3_drc_error.PNG" width="800" height="400"> 
+<img src="lab3/exercise1/4_width_measurement.PNG" width="800" height="400"> 
+<img src="lab3/exercise1/5_drc_resolved.PNG" width="800" height="400"> 
+<img src="lab3/exercise1/6_b.PNG" width="800" height="400"> 
+<img src="lab3/exercise1/6_b_select_colon.PNG" width="800" height="400"> 
+<img src="lab3/exercise1/7_b_fix_drc.PNG" width="800" height="400"> 
+<img src="lab3/exercise1/8_3_drc_fix.PNG" width="800" height="400"> 
+<img src="lab3/exercise1/9_drc_4_fix.PNG" width="800" height="400"> 
+<img src="lab3/exercise1/10_shift_6.PNG" width="800" height="400"> 
+<img src="lab3/exercise1/11_stret_using_command.PNG" width="800" height="400"> 
+
+### PV_D3SK2_L2 - Lab For Wide Spacing Rule And Notch Rule
+### PV_D3SK2_L3 - Lab For Via Size, Multiple Vias, Via Overlap and Autogenerate Vias
+### PV_D3SK2_L4 - Lab For Minumum Area Rule And Minimum Hole Rule
+### PV_D3SK2_L5 - Lab For Wells And Deep N-Well
+### PV_D3SK2_L6 - Lab For Derived Layers
+### PV_D3SK2_L7 - Lab For Paramterized And PDK Devices
+### PV_D3SK2_L8 - Lab For Angle Error And Overlap Rule
+### PV_D3SK2_L9 - Lab For Unimplemented Rules
+### PV_D3SK2_L10 - Latch-up And Antenna Rules
+### PV_D3SK2_L11 - Lab For Density Rules
