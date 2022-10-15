@@ -417,11 +417,11 @@ Back to again pin mismatch:
 
 Fixing pin mismatch:  
 <img src="lab4/exercise5/13_vdd3v3.PNG" width="800" height="400"> 
+Fixing pin mismatch:  
 <img src="lab4/exercise5/14_sss_selected_full_net.PNG" width="800" height="400"> 
 <img src="lab4/exercise5/15_paint_m3.PNG" width="800" height="400">
-
+LVS:  
 <img src="lab4/exercise5/16_device_error_in_netgen.PNG" width="800" height="400"> 
-<img src="lab4/exercise5/17_fix.PNG" width="800" height="400"> 
 
 ### PV_D5SK2_L7 - LVS Layout Vs Verilog For Standard Cell
 <img src="lab4/exercise6/1_extract_netlist_pll.PNG" width="800" height="400"> 
