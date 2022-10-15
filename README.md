@@ -361,10 +361,15 @@ We have to pass name of cell in quotes for comparison:
 <img src="lab4/exercise2/3.PNG" width="800" height="400">  
 
 ### PV_D5SK2_L3 - LVS With Blackboxes Subcircuits
+Now definition of the subcircuits, but still lvs passed, because it treated subcircuits as blackbox and performed pin and device match.
 <img src="lab4/exercise3/1.PNG" width="800" height="400">   
 <img src="lab4/exercise3/2.PNG" width="800" height="400">  
-<img src="lab4/exercise3/3_changes_order.PNG" width="800" height="400"> 
-<img src="lab4/exercise3/4_errors.PNG" width="800" height="400"> 
+
+Now we are reversing pins of first subcircuit:  
+<img src="lab4/exercise3/3_changes_order.PNG" width="500" height="200">  
+We got errors:  
+<img src="lab4/exercise3/4_errors.PNG" width="500" height="200">   
+
 <img src="lab4/exercise3/5_no_error_cell_name_Changed.PNG" width="800" height="400"> 
 <img src="lab4/exercise3/6_blackbox_enabled.PNG" width="800" height="400"> 
 
