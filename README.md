@@ -182,5 +182,20 @@ Now with resisters:
 Overall:  
 <img src="lab2/extraction/4_all_on.PNG" width="800" height="400">   
 ### PV_D2SK2_L5 - Setup For DRC
+Following commands are used for performing and analyzing DRC analysis:
+- </i>drc style</i>
+- </i>drc listall style</i>
+- </i>drc style drc(full)</i>
+- </i>drc check</i>
+- </i>drc why</i>
+- </i>drc find</i>
+
+<img src="lab2/drc/1.PNG" width="800" height="400">   
+Now with resisters:  
+<img src="lab2/drc/2.PNG" width="800" height="400">   
+<img src="lab2/drc/3_nodrc_error.PNG" width="800" height="400">   
+Overall:  
+<img src="lab2/drc/4_andgate_subsell.PNG" width="800" height="400">  
+
 ### PV_D2SK2_L6 - Setup For LVS
 ### PV_D2SK2_L7 - Setup For XOR
