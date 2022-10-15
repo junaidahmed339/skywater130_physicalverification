@@ -165,14 +165,14 @@ loaded using vendor and default cif style:
 <img src="lab2/abstract_view/15_read_gds_after_writing.PNG" width="800" height="400"> 
 
 ### PV_D2SK2_L4 - Basic Extraction
-Now performing basic netlist extraction from magic. Defualt netlist, with capacitance netlist and with RC, netlist has been extracted using following commands:
+Now performing basic netlist extraction from magic. Default netlist, with capacitance and with RC have been extracted using following commands:
 - </i>ext2spice lvs</i>
 - </i>ext2spice</i>
 - </i>ext2spice cthrush 0</i>
 - </i>extresist tolerance 10</i>
 - </i>extresist</i>
 
-<img src="lab2extraction/1_simple_extraction.PNG" width="800" height="400"> 
+<img src="lab2/extraction/1_simple_extraction.PNG" width="800" height="400"> 
 <img src="lab2/extraction/2_c_extraction.PNG" width="800" height="400"> 
 <img src="lab2/extraction/3_enabled_extresist.PNG" width="800" height="400"> 
 <img src="lab2/extraction/3_enabled_resist.PNG" width="800" height="400"> 
