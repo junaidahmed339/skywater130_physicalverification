@@ -323,3 +323,13 @@ Issue if fixed
 <img src="lab3/exercise10/2.PNG" width="800" height="400">  
 
 ### PV_D3SK2_L11 - Lab For Density Rules
+<img src="lab3/exercise11/1.PNG" width="800" height="400">  
+<img src="lab3/exercise11/2_densitycheck_using_gds.PNG" width="800" height="400">   
+<img src="lab3/exercise11/3_gen_fillpattern_gds.PNG" width="800" height="400">   
+<img src="lab3/exercise11/4_m2fillpattern.PNG" width="800" height="400">   
+<img src="lab3/exercise11/5_.PNG" width="800" height="400">   
+<img src="lab3/exercise11/6_metal2_layout.PNG" width="800" height="400">  
+<img src="lab3/exercise11/7_met1.PNG" width="800" height="400">   
+<img src="lab3/exercise11/8_m1_density.PNG" width="800" height="400">   
+<img src="lab3/exercise11/9_m2_density.PNG" width="800" height="400">   
+<img src="lab3/exercise11/10_m3_density.PNG" width="800" height="400">   
