@@ -401,12 +401,21 @@ Conparison failed:
 <img src="lab4/exercise5/6_comparison_failed.PNG" width="800" height="400">
 Issue:  
 <img src="lab4/exercise5/7_issue_with_pins_of_subcct.PNG" width="800" height="200"> 
-<img src="lab4/exercise5/8_modified_comp_script.PNG" width="800" height="400"> 
+
+Script modified to tb:  
+<img src="lab4/exercise5/8_modified_comp_script.PNG" width="800" height="400">  
+
+Now no device error:  
 <img src="lab4/exercise5/9_no_device_error_only_pin_error.PNG" width="800" height="400"> 
+
+Checking por_comp_file after lvs:  
 <img src="lab4/exercise5/10_run_por_script.PNG" width="800" height="400"> 
+
+Back to again pin mismatch:  
 <img src="lab4/exercise5/11_msimatch_in_wrapper.PNG" width="800" height="400"> 
 <img src="lab4/exercise5/12_mismatch_in_wrapper.PNG" width="800" height="400">
 
+Fixing pin mismatch:  
 <img src="lab4/exercise5/13_vdd3v3.PNG" width="800" height="400"> 
 <img src="lab4/exercise5/14_sss_selected_full_net.PNG" width="800" height="400"> 
 <img src="lab4/exercise5/15_paint_m3.PNG" width="800" height="400">
