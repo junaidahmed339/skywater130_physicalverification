@@ -367,19 +367,19 @@ Now definition of the subcircuits, but still lvs passed, because it treated subc
 
 Now we are reversing pins of first subcircuit:  
 <img src="lab4/exercise3/3_changes_order.PNG" width="400" height="200">  
-We got errors:  
+We got errors: pins are not matched, issue with proximy pins 
 <img src="lab4/exercise3/4_errors.PNG" width="400" height="300">   
 
-<img src="lab4/exercise3/5_no_error_cell_name_Changed.PNG" width="800" height="400"> 
-<img src="lab4/exercise3/6_blackbox_enabled.PNG" width="800" height="400"> 
+<img src="lab4/exercise3/5_no_error_cell_name_Changed.PNG"  width="400" height="300">
+<img src="lab4/exercise3/6_blackbox_enabled.PNG"  width="400" height="300">
 
 ### PV_D5SK2_L4 - LVS With SPICE Low Level Components
-<img src="lab4/exercise4/1_swap_A_C_in_cell1_error.PNG" width="800" height="400"> 
-<img src="lab4/exercise4/2_permitting_pin_swap_in_tcl.PNG" width="800" height="400"> 
-<img src="lab4/exercise4/3_lvs_clean_now.PNG" width="800" height="400"> 
-<img src="lab4/exercise4/4_now_change_diode_pins.PNG" width="800" height="400"> 
-<img src="lab4/exercise4/5_lvs_passed_again.PNG" width="800" height="400"> 
-<img src="lab4/exercise4/6_netgen_analyzed_this_change.PNG" width="800" height="400"> 
+<img src="lab4/exercise4/1_swap_A_C_in_cell1_error.PNG"  width="400" height="300">
+<img src="lab4/exercise4/2_permitting_pin_swap_in_tcl.PNG"  width="400" height="300"> 
+<img src="lab4/exercise4/3_lvs_clean_now.PNG"  width="400" height="300">
+<img src="lab4/exercise4/4_now_change_diode_pins.PNG"  width="400" height="300"> 
+<img src="lab4/exercise4/5_lvs_passed_again.PNG"  width="400" height="300">
+<img src="lab4/exercise4/6_netgen_analyzed_this_change.PNG" width="400" height="300">
 
 
 ### PV_D5SK2_L5 and L6 - LVS For Small Analog Block - Power-On Reset - Part 1 and 2
