@@ -144,7 +144,12 @@ For port consistency we can read from .spice file
 <img src="lab2/7.PNG" width="500" height="200">   
 
 ### PV_D2SK2_L3 - Abstract Views
-### PV_D2SK2_L4 - Basic Extraction
+lef file is a library, have no concept of top level cell. Now by loading cells using lef commad, we can see the abstract view of cell. This information is not hold by gds format.  
+- </i>lef read /usr/share/pdk/sky130A/libs.ref/sky130_fd_sc_hd/lef/sky130_fd_sc_hd.lef</i>  
+Abstract view of AND cell:
+<img src="lab2/abstract_view/8.PNG" width="500" height="200"> 
+
+PV_D2SK2_L4 - Basic Extraction
 ### PV_D2SK2_L5 - Setup For DRC
 ### PV_D2SK2_L6 - Setup For LVS
 ### PV_D2SK2_L7 - Setup For XOR
