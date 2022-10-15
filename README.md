@@ -424,10 +424,15 @@ LVS:
 <img src="lab4/exercise5/16_device_error_in_netgen.PNG" width="800" height="400"> 
 
 ### PV_D5SK2_L7 - LVS Layout Vs Verilog For Standard Cell
+Extracting netlist:  
 <img src="lab4/exercise6/1_extract_netlist_pll.PNG" width="800" height="400"> 
+Netgen error:  
 <img src="lab4/exercise6/2_netgen_error.PNG" width="800" height="400"> 
+finding filler_cell:  
 <img src="lab4/exercise6/3_filler_cell.PNG" width="800" height="400"> 
+Cell is empty:  
 <img src="lab4/exercise6/4_empty_cell.PNG" width="800" height="400"> 
+Fixed netgen pass:  
 <img src="lab4/exercise6/5_pass.PNG" width="800" height="400"> 
 
 ### PV_D5SK2_L8 - LVS For Macros
