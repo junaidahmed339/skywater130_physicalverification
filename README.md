@@ -396,4 +396,28 @@ Issue if fixed
 <img src="lab4/exercise7/3_fix.PNG" width="800" height="400"> 
 
 ### PV_D5SK2_L9 and L10- LVS Digital PLL - Part 1 and 2
+<img src="lab4/exercise8/1.PNG" width="800" height="400"> 
+<img src="lab4/exercise8/1_lvs_check_fail.PNG" width="800" height="400"> 
+<img src="lab4/exercise8/3_fix_some.PNG" width="800" height="400"> 
+<img src="lab4/exercise8/4_get_diode_node_dco.PNG" width="800" height="400"> 
+<img src="lab4/exercise8/5_diode_fix.PNG" width="800" height="400"> 
+
+<img src="lab4/exercise8/6_fixed_no_device_error.PNG" width="800" height="400"> 
+<img src="lab4/exercise8/7_contaction.PNG" width="800" height="400"> 
+<img src="lab4/exercise8/8_fix_error_328_A_364_clk.PNG" width="800" height="400"> 
+<img src="lab4/exercise8/9_m1_erase_two_cells_cut.PNG" width="800" height="400"> 
+<img src="lab4/exercise8/10.PNG" width="800" height="400"> 
+
+<img src="lab4/exercise8/11_1net.PNG" width="800" height="400"> 
+<img src="lab4/exercise8/12_2net.PNG" width="800" height="400"> 
+<img src="lab4/exercise8/13_fix_only_one_error_left.PNG" width="800" height="400"> 
+<img src="lab4/exercise8/14_fix_io.PNG" width="800" height="400"> 
+<img src="lab4/exercise8/15_netlists_matched_completley.PNG" width="800" height="400"> 
+
+
 ### PV_D5SK2_L11 - LVS With Property Errors
+<img src="lab4/exercise9/1_netlist_extraction.PNG" width="800" height="400"> 
+<img src="lab4/exercise9/2_property_Error.PNG" width="800" height="400"> 
+<img src="lab4/exercise9/3_.PNG" width="800" height="400"> 
+<img src="lab4/exercise9/3_only_1_error_in.PNG" width="800" height="400"> 
+<img src="lab4/exercise9/4.PNG" width="800" height="400"> 
