@@ -84,7 +84,7 @@ magic is checked by using the following commad:
 <img src="lab1/4.PNG" width="800" height="400">  
 <img src="lab1/5.PNG" width="800" height="400"> 
 
-WE can find particular box info using "what"
+We can find particular box info using "what" command:  
 <img src="lab1/6.PNG" width="600" height="400">  
 
 ###  PV_D1SK2_L3 - Creating Simple Schematic In Xschem
@@ -93,7 +93,9 @@ Schematic of inverter has been designed in xschem, two transistor symbols have b
 
 ###  PV_D1SK2_L4 - Creating Symbol And Exporting Schematic In Xschem
 A testbench circuit has been developed and schematic of inverter has been imported. Two power sources has been applied, one with constant volatage source, because the pfet and nfet are designed for that and second source voltage is sweep on the gate terminal of each device to check the final outcome.  
-<img src="lab1/8.PNG" width="600" height="400">    
+<img src="lab1/8.PNG" width="800" height="400">   
+
+Simulation results of inverter:  
 <img src="lab1/9.PNG" width="800" height="400">    
 
 ###  PV_D1SK2_L5 - Importing Schematic To Layout And Inverter Layout Steps
@@ -102,7 +104,7 @@ Now inverter netlist has been exported from xschem to magic as shown below, all 
 <img src="lab1/11.PNG" width="800" height="400">    
 
 ###  PV_D1SK2_L6 - Final DRC/LVS Checks And Post Layout Simulations
-Now layout is complete, at this point we are not checking drc errors, although there is no drc error in this layout. The following commands are used for extract the final layout netlist for layout to schematic comparison:
+Now layout is complete, at this point we are not checking drc errors, although there is no drc error in this layout. The following commands are used to extract the final netlist for layout to schematic comparison:
 - </i>extract do local (extract in local directory)</i>
 - </i>extracl all</i>
 - </i>ext2spice lvs (extract for lvs)</i>
@@ -110,7 +112,7 @@ Now layout is complete, at this point we are not checking drc errors, although t
 
 For comparison in netgen we have used following command:
 - </i>netgen -batch lvs “../mag/inverter.spice inverter” “../xschem/inverter.spice inverter”</i>
-<img src="lab1/netgen_out.PNG" width="800" height="400">  
+<img src="lab1/netgen_out.PNG" width="500" height="300">  
 
 
 ## Lab2 (Labs for GDS read/write, extraction, DRC, LVS and XOR setup)
