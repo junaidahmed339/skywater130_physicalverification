@@ -283,12 +283,24 @@ See NPC using cif see NPC
 Now we can expland the cell and check drc error exists inside the cell, but it has been resolved in upper heirarchy    
 <img src="lab3/exercise6/1_drc_exist_in_the_cell.PNG" width="800" height="400">   
 
-### PV_D3SK2_L7 - Lab For Paramterized And PDK Devices
-<img src="lab3/exercise7/1.PNG" width="800" height="400"> 
+### PV_D3SK2_L7 - Lab For Paramterized And PDK Devices 
+To fix angle issue, we need to move one portion of the layer to a point which exist on the grid:  
+this drc angle error is resolved by moving left shape:  
+<img src="lab3/exercise7/1.PNG" width="800" height="400">  
+
+Angle error is 7b is resolved by filling the shape using paint li command:  
 <img src="lab3/exercise7/2.PNG" width="800" height="400"> 
-<img src="lab3/exercise7/3.PNG" width="800" height="400"> 
+
+Overlap issue in 7c:  
+<img src="lab3/exercise7/3.PNG" width="800" height="400">  
+
+This issue is resolved by properly growing the box and filling with poly:
+In the below diagram, local interconnect was used and via is connected:  
 <img src="lab3/exercise7/4.PNG" width="800" height="400"> 
+
+In the layout VIAs are shown at different position but in the inner cell they exist at particular spaces:
 <img src="lab3/exercise7/Capture5.PNG" width="800" height="400"> 
+DRC errors can be resolved by properly adjusting the blocks:  
 <img src="lab3/exercise7/6.PNG" width="800" height="400"> 
 
 ### PV_D3SK2_L8 - Lab For Angle Error And Overlap Rule
