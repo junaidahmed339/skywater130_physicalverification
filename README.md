@@ -250,8 +250,11 @@ Fixing hole area issue:
 <img src="lab3/exercise3/4_hole_drc_fixed.PNG" width="800" height="400">   
 
 ### PV_D3SK2_L4 - Lab For Minumum Area Rule And Minimum Hole Rule
+Fixing nwell drc error by painting local interconnect with diffusion  
 <img src="lab3/exercise4/1_fix_drc_nwell.PNG" width="800" height="400">  
+Fixing pwell drc error by painting local interconnect with diffusion  
 <img src="lab3/exercise4/2_fix_drc_pwell.PNG" width="800" height="400">  
+Fixing deep nwell drc error by creating nwell and connecting diffusion with local interconnect  
 <img src="lab3/exercise4/4c_complete_nodrc.PNG" width="800" height="400"> 
 
 ### PV_D3SK2_L5 - Lab For Wells And Deep N-Well
