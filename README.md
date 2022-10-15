@@ -436,27 +436,38 @@ Fixed netgen pass:
 <img src="lab4/exercise6/5_pass.PNG" width="800" height="400"> 
 
 ### PV_D5SK2_L8 - LVS For Macros
-<img src="lab4/exercise7/1_lvs_no-run.PNG" width="800" height="400"> 
+Error in verilog:  
+<img src="lab4/exercise7/1_lvs_no-run.PNG" width="800" height="400">
+GL circuit:  
 <img src="lab4/exercise7/2_after_gl_path_still_error.PNG" width="800" height="400"> 
+Issue fixed and lvs passed:  
 <img src="lab4/exercise7/3_fix.PNG" width="800" height="400"> 
 
 ### PV_D5SK2_L9 and L10- LVS Digital PLL - Part 1 and 2
-<img src="lab4/exercise8/1.PNG" width="800" height="400"> 
+LVS fail:  
 <img src="lab4/exercise8/1_lvs_check_fail.PNG" width="800" height="400"> 
+Fixing metal issue:  
 <img src="lab4/exercise8/3_fix_some.PNG" width="800" height="400"> 
+Errors are reduced:  
 <img src="lab4/exercise8/4_get_diode_node_dco.PNG" width="800" height="400"> 
+Fixed diode issue:  
 <img src="lab4/exercise8/5_diode_fix.PNG" width="800" height="400"> 
-
+Error no device:  
 <img src="lab4/exercise8/6_fixed_no_device_error.PNG" width="800" height="400"> 
-<img src="lab4/exercise8/7_contaction.PNG" width="800" height="400"> 
+<img src="lab4/exercise8/7_contaction.PNG" width="800" height="400">
+Fixed A and CLK of 328 and 364:  
 <img src="lab4/exercise8/8_fix_error_328_A_364_clk.PNG" width="800" height="400"> 
+m1 fix by erasing:  
 <img src="lab4/exercise8/9_m1_erase_two_cells_cut.PNG" width="800" height="400"> 
 <img src="lab4/exercise8/10.PNG" width="800" height="400"> 
 
 <img src="lab4/exercise8/11_1net.PNG" width="800" height="400"> 
 <img src="lab4/exercise8/12_2net.PNG" width="800" height="400"> 
+LVS: only one issue left:  
 <img src="lab4/exercise8/13_fix_only_one_error_left.PNG" width="800" height="400"> 
+Fixing final io issue:  
 <img src="lab4/exercise8/14_fix_io.PNG" width="800" height="400"> 
+LVS passed:  
 <img src="lab4/exercise8/15_netlists_matched_completley.PNG" width="800" height="400"> 
 
 
