@@ -158,6 +158,7 @@ Now writing abstract view to gds and reading it back:
 <img src="lab2/abstract_view/10_writing_gds.PNG" width="800" height="400"> 
 <img src="lab2/abstract_view/11_read_gds.PNG" width="800" height="400"> 
 Making cell writable and painting interconnect over the cell:
+loaded using vendor and default cif style:
 <img src="lab2/abstract_view/12_load_test.PNG" width="800" height="400"> 
 <img src="lab2/abstract_view/13_property.PNG" width="800" height="400"> 
 <img src="lab2/abstract_view/14_writen_sky130_cell.PNG" width="800" height="400"> 
