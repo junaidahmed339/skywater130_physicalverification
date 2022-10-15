@@ -123,11 +123,13 @@ For comparison in netgen we have used following command:
 - </i>gds read /usr/share/pdk/sky130A/libs.ref/sky130_fd_sc_hd/gds/sky130_fd_sc_hd.gds</i>
 After loading gds, we have seleted a standard cell: sky130_fd_sc_hd__and2_1
 <img src="lab2/2.PNG" width="800" height="400">   
-Now change the style to vendor and read again
-- </i>cif istyle gds(vendor)</i>
-<img src="lab2/1.PNG" width="800" height="400">   
-- </i>gds noduplicates (check cells can be override or not)</i> 
-- </i>gds noduplicates true (current cell will not update)</i>
+
+Now change the style to vendor and read again using:  
+- </i>cif istyle gds(vendor)</i>  
+<img src="lab2/1.PNG" width="800" height="400">  
+
+- </i>gds noduplicates (check cells can be override or not)</i>   
+- </i>gds noduplicates true (current cell will not update)</i>  
 <img src="lab2/3.PNG" width="500" height="200">   
 
 ### PV_D2SK2_L2 - Ports
