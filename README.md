@@ -206,16 +206,26 @@ Performing XOR to get mismatch on two layouts in magic to check whether they are
 
 
 ## Lab3 (Labs for all DRC rules)
-### PV_D3SK2_L1 - Lab For Width Rule And Spacing Rule  
+### PV_D3SK2_L1 - Lab For Width Rule And Spacing Rule   
+Now working on DRC fixes in Magic:  
 <img src="lab3/exercise1/1.PNG" width="800" height="400">   
+We have to fix error in 1a first:  
 <img src="lab3/exercise1/2.PNG" width="800" height="400">   
+Problem is in metal width:  
 <img src="lab3/exercise1/3_drc_error.PNG" width="800" height="400"> 
+Measuring width:    
 <img src="lab3/exercise1/4_width_measurement.PNG" width="800" height="400"> 
+Appying DRC fix:   
 <img src="lab3/exercise1/5_drc_resolved.PNG" width="800" height="400"> 
+Spacing problem in 6b:  
 <img src="lab3/exercise1/6_b.PNG" width="800" height="400"> 
+Fixing DRC error:  
 <img src="lab3/exercise1/6_select_colon.PNG" width="800" height="400"> 
+DRC issue resolved:  
 <img src="lab3/exercise1/7_b_fix_drc.PNG" width="800" height="400"> 
+Fixed width spacing issue in 1c:   
 <img src="lab3/exercise1/8_3_drc_fix.PNG" width="800" height="400"> 
+Fixed using notch rule: expanded the box using "A" and then shift+(2,4,6,8)
 <img src="lab3/exercise1/9_drc_4_fixed.PNG" width="800" height="400"> 
 <img src="lab3/exercise1/10_shift_6.PNG" width="800" height="400"> 
 <img src="lab3/exercise1/11_stret_using_command.PNG" width="800" height="400"> 
