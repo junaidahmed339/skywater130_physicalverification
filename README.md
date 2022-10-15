@@ -335,6 +335,7 @@ We can fix the issue by joining metals:
 <img src="lab3/exercise10/2.PNG" width="800" height="400">  
 
 ### PV_D3SK2_L11 - Lab For Density Rules
+Now we can find the density of each layer in the layout, it is not recommended to put very high density of one metal, generally we have to distribute it over the metals layers:  
 <img src="lab3/exercise11/1.PNG" width="800" height="400">  
 <img src="lab3/exercise11/2_densitycheck_using_gds.PNG" width="800" height="400">   
 <img src="lab3/exercise11/3_gen_fillpattern_gds.PNG" width="800" height="400">   
