@@ -142,12 +142,12 @@ Port index is meta data so it cannot be stored in GDS format. It can be checked 
 <img src="lab2/4.PNG" width="500" height="200">     
 Meta data can be found in lef file available from sky130 library. 
 - </i>lef read /usr/share/pdk/sky130A/libs.ref/sky130_fd_sc_hd/lef/sky130_fd_sc_hd.lef</i>  
-<img src="lab2/5.PNG" width="500" height="200">  
+<img src="lab2/5.PNG" width="500" height="100">  
 
 For port consistency we can read from .spice file:  
 - </i> readspice /usr/share/pdk/sky130A/libs.ref/sky130_fd_sc_hd/spice/sky130_fd_sc_hd.spice</i>  
-<img src="lab2/6.PNG" width="500" height="200">   
-<img src="lab2/7.PNG" width="500" height="200">   
+<img src="lab2/6.PNG" width="800" height="300">   
+<img src="lab2/7.PNG" width="800" height="300">   
 
 ### PV_D2SK2_L3 - Abstract Views
 lef file is a library, have no concept of top level cell. Now by loading cells using lef commad, we can see the abstract view of cell. This information is not hold by gds format.  
