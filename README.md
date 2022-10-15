@@ -386,12 +386,13 @@ Checking diode and fixing it fixing it:
 <img src="lab4/exercise4/4_now_change_diode_pins.PNG"  width="400" height="300">   
 Now LVS passed again:    
 <img src="lab4/exercise4/5_lvs_passed_again.PNG"  width="400" height="300">   
-<img src="lab4/exercise4/6_netgen_analyzed_this_change.PNG" width="400" height="200">  
 
 
 ### PV_D5SK2_L5 and L6 - LVS For Small Analog Block - Power-On Reset - Part 1 and 2
-<img src="lab4/exercise5/1_top_schematci.PNG" width="800" height="400"> 
-<img src="lab4/exercise5/2_expand_schematic.PNG" width="800" height="400"> 
+<img src="lab4/exercise5/1_top_schematci.PNG" width="800" height="400">   
+Expand schematic:  
+<img src="lab4/exercise5/2_expand_schematic.PNG" width="800" height="400">   
+
 <img src="lab4/exercise5/3_xscheme_netlist.PNG" width="800" height="400"> 
 <img src="lab4/exercise5/4_magic_layout_for_netlist_ext.PNG" width="800" height="400"> 
 <img src="lab4/exercise5/5_netlist_From_spice.PNG" width="800" height="400"> 
