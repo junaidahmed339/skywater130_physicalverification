@@ -257,12 +257,26 @@ Fixing pwell drc error by painting local interconnect with diffusion
 Fixing deep nwell drc error by creating nwell and connecting diffusion with local interconnect  
 <img src="lab3/exercise4/4c_complete_nodrc.PNG" width="800" height="400"> 
 
-### PV_D3SK2_L5 - Lab For Wells And Deep N-Well
-<img src="lab3/exercise5/1_see_DIFF.PNG" width="800" height="400">  
-<img src="lab3/exercise5/2_see_POLY.PNG" width="800" height="400">  
+### PV_D3SK2_L5 - Lab For Wells And Deep N-Well 
+Following commands are used to see different layers:
+- </i>cif see DIF</i>
+- </i>cif see POLY</i>
+- </i>cif see NDSM</i>
+- </i>cif see PDSM</i> 
+- </i>cif see LVTN</i>  
+- </i>cif see HVI</i>  
+See diffusion using cif see DIF   
+<img src="lab3/exercise5/1_see_DIFF.PNG" width="800" height="400">   
+See POLY using cif see POLY  
+<img src="lab3/exercise5/2_see_POLY.PNG" width="800" height="400">    
+See NDSM and PDSM using cif see NDSM/PDSM  
 <img src="lab3/exercise5/3_see_NSDM_PSDM.PNG" width="800" height="400">  
-<img src="lab3/exercise5/4_see_LVTN.PNG" width="800" height="400">  
-<img src="lab3/exercise5/5_see_HVI_5b.PNG" width="800" height="400">  
+See LVTN using cif see LVTN  
+<img src="lab3/exercise5/4_see_LVTN.PNG" width="800" height="400"> 
+See HVI using cif see HVI  
+Now we can see that above cell is high voltage:  
+<img src="lab3/exercise5/5_see_HVI_5b.PNG" width="800" height="400">
+See NPC using cif see NPC 
 <img src="lab3/exercise5/6_ciff_see_NPC.PNG" width="800" height="400">  
 ### PV_D3SK2_L6 - Lab For Derived Layers
 ### PV_D3SK2_L7 - Lab For Paramterized And PDK Devices
