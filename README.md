@@ -280,10 +280,17 @@ See NPC using cif see NPC
 <img src="lab3/exercise5/6_ciff_see_NPC.PNG" width="800" height="400">   
 
 ### PV_D3SK2_L6 - Lab For Derived Layers  
-Now we can expland the cell and check drc error exists inside the cell, but it has been resolved in upper layer  
+Now we can expland the cell and check drc error exists inside the cell, but it has been resolved in upper heirarchy    
 <img src="lab3/exercise6/1_drc_exist_in_the_cell.PNG" width="800" height="400">   
 
 ### PV_D3SK2_L7 - Lab For Paramterized And PDK Devices
+<img src="lab3/exercise7/1.PNG" width="800" height="400"> 
+<img src="lab3/exercise7/2.PNG" width="800" height="400"> 
+<img src="lab3/exercise7/3.PNG" width="800" height="400"> 
+<img src="lab3/exercise7/4.PNG" width="800" height="400"> 
+<img src="lab3/exercise7/Capture5.PNG" width="800" height="400"> 
+<img src="lab3/exercise7/6.PNG" width="800" height="400"> 
+
 ### PV_D3SK2_L8 - Lab For Angle Error And Overlap Rule
 ### PV_D3SK2_L9 - Lab For Unimplemented Rules
 ### PV_D3SK2_L10 - Latch-up And Antenna Rules
