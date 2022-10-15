@@ -230,10 +230,14 @@ Fixed using notch rule: expanded the box using "A" and then shift+(2,4,6,8)
 <img src="lab3/exercise1/10_shift_6.PNG" width="800" height="400">  
 
 ### PV_D3SK2_L2 - Lab For Wide Spacing Rule And Notch Rule
+Fixing via size issue:   
 <img src="lab3/exercise2/1.PNG" width="800" height="400">  
+We can use "feedback why" command for error printing  
 <img src="lab3/exercise2/2_feedback_error.PNG" width="800" height="400">  
+Fixing error in 2c (via overlapped drc error)
 <img src="lab3/exercise2/3.PNG" width="800" height="400">  
-<img src="lab3/exercise2/4_vias.PNG" width="800" height="400">  
+We can switch to above layers by using shift+left click, a via will be added automatically for connection betweeen the layers  
+<img src="lab3/exercise2/4_vias.PNG" width="800" height="400">    
 ### PV_D3SK2_L3 - Lab For Via Size, Multiple Vias, Via Overlap and Autogenerate Vias
 ### PV_D3SK2_L4 - Lab For Minumum Area Rule And Minimum Hole Rule
 ### PV_D3SK2_L5 - Lab For Wells And Deep N-Well
