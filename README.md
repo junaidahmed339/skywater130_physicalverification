@@ -319,7 +319,8 @@ We can see the seal around the GDS:
 <img src="lab3/exercise8/1.PNG" width="500" height="300"> 
 <img src="lab3/exercise8/2.PNG" width="800" height="400"> 
 <img src="lab3/exercise8/3.PNG" width="800" height="400"> 
-<img src="lab3/exercise8/4_sealring_gds.PNG" width="800" height="400"> 
+<img src="lab3/exercise8/4_sealring_gds.PNG" width="800" height="400">  
+This is the actual layout of seal:  
 <img src="lab3/exercise8/5_sealring.PNG" width="800" height="400"> 
 
   
@@ -328,9 +329,9 @@ We can see the seal around the GDS:
 ### PV_D3SK2_L10 - Latch-up And Antenna Rules
 Now finding the cell in the layout    
 <img src="lab3/exercise9/1.PNG" width="800" height="400">  
-Fixing the antenna problem   
+There is an antenna in the layout which is not recognized by the schematic, so we need to find it:   
 <img src="lab3/exercise10/1_antenna_fix.PNG" width="800" height="400">  
-Issue if fixed   
+We can fix the issue by joining metals:     
 <img src="lab3/exercise10/2.PNG" width="800" height="400">  
 
 ### PV_D3SK2_L11 - Lab For Density Rules
