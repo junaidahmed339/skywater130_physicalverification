@@ -206,7 +206,7 @@ Performing XOR to get mismatch on two layouts in magic to check whether they are
 
 
 ## Lab3 (Labs for all DRC rules)
-### PV_D3SK2_L1 - Lab For Width Rule And Spacing Rule   
+### PV_D3SK2_L1 - Lab For Width Rule And Spacing Rule and PV_D3SK2_L2 - Lab For Wide Spacing Rule And Notch Rule
 Now working on DRC fixes in Magic:  
 <img src="lab3/exercise1/1.PNG" width="800" height="400">  
 We have to fix error in 1a first:  
@@ -229,7 +229,7 @@ Fixed using notch rule: expanded the box using "A" and then shift+(2,4,6,8)
 <img src="lab3/exercise1/9_drc_4_fixed.PNG" width="800" height="400">  
 <img src="lab3/exercise1/10_shift_6.PNG" width="800" height="400">  
 
-### PV_D3SK2_L2 - Lab For Wide Spacing Rule And Notch Rule
+### PV_D3SK2_L3 - Lab For Via Size, Multiple Vias, Via Overlap and Autogenerate Vias 
 Fixing via size issue:   
 <img src="lab3/exercise2/1.PNG" width="800" height="400">  
 We can use "feedback why" command for error printing  
@@ -239,7 +239,7 @@ Fixing error in 2c (via overlapped drc error)
 We can switch to above layers by using shift+left click, a via will be added automatically for connection betweeen the layers  
 <img src="lab3/exercise2/4_vias.PNG" width="800" height="400">    
 
-### PV_D3SK2_L3 - Lab For Via Size, Multiple Vias, Via Overlap and Autogenerate Vias  
+### PV_D3SK2_L4 - Lab For Minumum Area Rule And Minimum Hole Rule
 Fixing mimimum area rule by expanding box:    
 <img src="lab3/exercise3/1.PNG" width="800" height="400">      
 Filling via with metal to fix drc:   
@@ -249,7 +249,7 @@ DRC error: hole area is small:
 Fixing hole area issue:  
 <img src="lab3/exercise3/4_hole_drc_fixed.PNG" width="800" height="400">   
 
-### PV_D3SK2_L4 - Lab For Minumum Area Rule And Minimum Hole Rule
+### PV_D3SK2_L5 - Lab For Wells And Deep N-Well 
 Fixing nwell drc error by painting local interconnect with diffusion  
 <img src="lab3/exercise4/1_fix_drc_nwell.PNG" width="800" height="400">  
 Fixing pwell drc error by painting local interconnect with diffusion  
@@ -257,7 +257,7 @@ Fixing pwell drc error by painting local interconnect with diffusion
 Fixing deep nwell drc error by creating nwell and connecting diffusion with local interconnect  
 <img src="lab3/exercise4/4c_complete_nodrc.PNG" width="800" height="400"> 
 
-### PV_D3SK2_L5 - Lab For Wells And Deep N-Well 
+### PV_D3SK2_L6 - Lab For Derived Layers  
 Following commands are used to see different layers:
 - </i>cif see DIF</i>
 - </i>cif see POLY</i>
@@ -279,11 +279,11 @@ Now we can see that above cell is high voltage:
 See NPC using cif see NPC 
 <img src="lab3/exercise5/6_ciff_see_NPC.PNG" width="800" height="400">   
 
-### PV_D3SK2_L6 - Lab For Derived Layers  
+### PV_D3SK2_L7 - Lab For Paramterized And PDK Devices 
 Now we can expland the cell and check drc error exists inside the cell, but it has been resolved in upper heirarchy    
 <img src="lab3/exercise6/1_drc_exist_in_the_cell.PNG" width="800" height="400">   
 
-### PV_D3SK2_L7 - Lab For Paramterized And PDK Devices 
+### PV_D3SK2_L8 - Lab For Angle Error And Overlap Rule
 To fix angle issue, we need to move one portion of the layer to a point which exist on the grid:  
 this drc angle error is resolved by moving left shape:  
 <img src="lab3/exercise7/1.PNG" width="800" height="400">  
@@ -304,7 +304,15 @@ In the layout VIAs are shown at different position but in the inner cell they ex
 DRC errors can be resolved by properly adjusting the blocks:      
 <img src="lab3/exercise7/6.PNG" width="800" height="400"> 
 
-### PV_D3SK2_L8 - Lab For Angle Error And Overlap Rule
 ### PV_D3SK2_L9 - Lab For Unimplemented Rules
+<img src="lab3/exercise7/1.PNG" width="800" height="400"> 
+<img src="lab3/exercise7/2.PNG" width="800" height="400"> 
+<img src="lab3/exercise7/3.PNG" width="800" height="400"> 
+<img src="lab3/exercise7/4_sealring_gds.PNG" width="800" height="400"> 
+<img src="lab3/exercise7/5_sealring.PNG" width="800" height="400"> 
+
+  
+
+
 ### PV_D3SK2_L10 - Latch-up And Antenna Rules
 ### PV_D3SK2_L11 - Lab For Density Rules
