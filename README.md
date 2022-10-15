@@ -472,8 +472,11 @@ LVS passed:
 
 
 ### PV_D5SK2_L11 - LVS With Property Errors
+Netlist extraction:  
 <img src="lab4/exercise9/1_netlist_extraction.PNG" width="800" height="400"> 
+Properties error:  
 <img src="lab4/exercise9/2_property_Error.PNG" width="800" height="400"> 
+Fixed errors in schematic:
 <img src="lab4/exercise9/3_.PNG" width="800" height="400"> 
-<img src="lab4/exercise9/3_only_1_error_in.PNG" width="800" height="400"> 
+Fixed error in layout and done with lvs: 
 <img src="lab4/exercise9/4.PNG" width="800" height="400"> 
