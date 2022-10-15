@@ -228,9 +228,12 @@ Fixed width spacing issue in 1c:
 Fixed using notch rule: expanded the box using "A" and then shift+(2,4,6,8)  
 <img src="lab3/exercise1/9_drc_4_fixed.PNG" width="800" height="400">  
 <img src="lab3/exercise1/10_shift_6.PNG" width="800" height="400">  
-<img src="lab3/exercise1/11_stret_using_command.PNG" width="800" height="400">  
 
 ### PV_D3SK2_L2 - Lab For Wide Spacing Rule And Notch Rule
+<img src="lab3/exercise2/1.PNG" width="800" height="400">  
+<img src="lab3/exercise2/2_feedback_error.PNG" width="800" height="400">  
+<img src="lab3/exercise2/3.PNG" width="800" height="400">  
+<img src="lab3/exercise2/4_vias.PNG" width="800" height="400">  
 ### PV_D3SK2_L3 - Lab For Via Size, Multiple Vias, Via Overlap and Autogenerate Vias
 ### PV_D3SK2_L4 - Lab For Minumum Area Rule And Minimum Hole Rule
 ### PV_D3SK2_L5 - Lab For Wells And Deep N-Well
