@@ -133,17 +133,18 @@ Now change the style to vendor and read again using:
 <img src="lab2/3.PNG" width="500" height="100">   
 
 ### PV_D2SK2_L2 - Ports
-Port index is meta data so it cannt be stored in gds. It can be checked using following commands
+Port index is meta data so it cannot be stored in GDS format. It can be checked using following commands
 - </i>Port index</i>
 - </i>port first</i>
 - </i>port 1 name</i>
 - </i>port 1 class (meta data)</i>
 - </i>port 1 use (meta data)</i>  
 <img src="lab2/4.PNG" width="500" height="200">     
-Meta data can be found in lef file.  
+Meta data can be found in lef file available from sky130 library. 
 - </i>lef read /usr/share/pdk/sky130A/libs.ref/sky130_fd_sc_hd/lef/sky130_fd_sc_hd.lef</i>  
-<img src="lab2/5.PNG" width="500" height="200"> 
-For port consistency we can read from .spice file
+<img src="lab2/5.PNG" width="500" height="200">  
+
+For port consistency we can read from .spice file:  
 - </i> readspice /usr/share/pdk/sky130A/libs.ref/sky130_fd_sc_hd/spice/sky130_fd_sc_hd.spice</i>  
 <img src="lab2/6.PNG" width="500" height="200">   
 <img src="lab2/7.PNG" width="500" height="200">   
