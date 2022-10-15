@@ -190,12 +190,14 @@ Following commands are used for performing and analyzing DRC analysis:
 - </i>drc why</i>
 - </i>drc find</i>
 
+Selecting and applying DRC check:
 <img src="lab2/drc/1.PNG" width="800" height="400">   
-Now with resisters:  
+Adding another component and checking DRC errors:
 <img src="lab2/drc/2.PNG" width="800" height="400">   
-<img src="lab2/drc/3_nodrc_error.PNG" width="800" height="400">   
-Overall:  
-<img src="lab2/drc/4_andgate_subsell.PNG" width="800" height="400">  
+Fixing DRC errors in the layout:
+<img src="lab2/drc/3_nodrc_error.PNG" width="800" height="400"> 
+And gate subcell:
+<img src="lab2/drc/4_andgate_subcell.PNG" width="800" height="400">  
 
 ### PV_D2SK2_L6 - Setup For LVS
 ### PV_D2SK2_L7 - Setup For XOR
