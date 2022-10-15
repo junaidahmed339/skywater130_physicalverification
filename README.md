@@ -377,16 +377,16 @@ Now we have changed the name of one subcell and got device errors:
 ### PV_D5SK2_L4 - LVS With SPICE Low Level Components
 Now we have added definiton of subcircuits:  
 Swping pins of cell1  A - C  
-<img src="lab4/exercise4/1_swap_A_C_in_cell1_error.PNG"  width="400" height="300">
-Permitting pin swap   
-<img src="lab4/exercise4/2_permitting_pin_swap_in_tcl.PNG"  width="400" height="300"> 
-Now LVS is clean  
-<img src="lab4/exercise4/3_lvs_clean_now.PNG"  width="400" height="300">
-Checking diode and fixing it fixing it:  
-<img src="lab4/exercise4/4_now_change_diode_pins.PNG"  width="400" height="300"> 
-Now LVS passed again:  
-<img src="lab4/exercise4/5_lvs_passed_again.PNG"  width="400" height="300">
-<img src="lab4/exercise4/6_netgen_analyzed_this_change.PNG" width="400" height="300">
+<img src="lab4/exercise4/1_swap_A_C_in_cell1_error.PNG"  width="400" height="300">   
+Permitting pin swap    
+<img src="lab4/exercise4/2_permitting_pin_swap_in_tcl.PNG"  width="400" height="300">   
+Now LVS is clean   
+<img src="lab4/exercise4/3_lvs_clean_now.PNG"  width="400" height="300">  
+Checking diode and fixing it fixing it:    
+<img src="lab4/exercise4/4_now_change_diode_pins.PNG"  width="400" height="300">   
+Now LVS passed again:    
+<img src="lab4/exercise4/5_lvs_passed_again.PNG"  width="400" height="300">   
+<img src="lab4/exercise4/6_netgen_analyzed_this_change.PNG" width="400" height="200">  
 
 
 ### PV_D5SK2_L5 and L6 - LVS For Small Analog Block - Power-On Reset - Part 1 and 2
