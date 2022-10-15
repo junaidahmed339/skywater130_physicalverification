@@ -213,10 +213,10 @@ Performing XOR to get mismatch on two layouts in magic to check whether they are
 <img src="lab3/exercise1/4_width_measurement.PNG" width="800" height="400"> 
 <img src="lab3/exercise1/5_drc_resolved.PNG" width="800" height="400"> 
 <img src="lab3/exercise1/6_b.PNG" width="800" height="400"> 
-<img src="lab3/exercise1/6_b_select_colon.PNG" width="800" height="400"> 
+<img src="lab3/exercise1/6_select_colon.PNG" width="800" height="400"> 
 <img src="lab3/exercise1/7_b_fix_drc.PNG" width="800" height="400"> 
 <img src="lab3/exercise1/8_3_drc_fix.PNG" width="800" height="400"> 
-<img src="lab3/exercise1/9_drc_4_fix.PNG" width="800" height="400"> 
+<img src="lab3/exercise1/9_drc_4_fixed.PNG" width="800" height="400"> 
 <img src="lab3/exercise1/10_shift_6.PNG" width="800" height="400"> 
 <img src="lab3/exercise1/11_stret_using_command.PNG" width="800" height="400"> 
 
