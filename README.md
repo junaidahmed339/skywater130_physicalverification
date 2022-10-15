@@ -315,7 +315,7 @@ DRC errors can be resolved by properly adjusting the blocks:
 
 
 ### PV_D3SK2_L10 - Latch-up And Antenna Rules
-Now finding and issue in the layout   
+Now finding the cell in the layout    
 <img src="lab3/exercise9/1.PNG" width="800" height="400">  
 Fixing the antenna problem   
 <img src="lab3/exercise10/1_antenna_fix.PNG" width="800" height="400">  
