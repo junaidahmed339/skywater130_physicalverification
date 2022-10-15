@@ -362,6 +362,27 @@ Issue if fixed
 
 
 ### PV_D5SK2_L5 and L6 - LVS For Small Analog Block - Power-On Reset - Part 1 and 2
+<img src="lab4/exercise5/1_top_schematci.PNG" width="800" height="400"> 
+<img src="lab4/exercise5/2_expand_schematic.PNG" width="800" height="400"> 
+<img src="lab4/exercise5/3_xscheme_netlist.PNG" width="800" height="400"> 
+<img src="lab4/exercise5/4_magic_layout_for_netlist_ext.PNG" width="800" height="400"> 
+<img src="lab4/exercise5/5_netlist_From_spice.PNG" width="800" height="400"> 
+<img src="lab4/exercise5/6_comparison_failed.PNG" width="800" height="400">
+
+<img src="lab4/exercise5/7_issue_with_pins_of_subcct.PNG" width="800" height="400"> 
+<img src="lab4/exercise5/8_modified_comp_script.PNG" width="800" height="400"> 
+<img src="lab4/exercise5/9_no_device_error_only_pin_error.PNG" width="800" height="400"> 
+<img src="lab4/exercise5/10_run_por_script.PNG" width="800" height="400"> 
+<img src="lab4/exercise5/11_msimatch_in_wrapper.PNG" width="800" height="400"> 
+<img src="lab4/exercise5/12_mismatch_in_wrapper.PNG" width="800" height="400">
+
+<img src="lab4/exercise5/13_vdd3v3.PNG" width="800" height="400"> 
+<img src="lab4/exercise5/14_sss_selected_full_net.PNG" width="800" height="400"> 
+<img src="lab4/exercise5/15_paint_m3.PNG" width="800" height="400">
+
+<img src="lab4/exercise5/16_device_error_in_netgen.PNG" width="800" height="400"> 
+<img src="lab4/exercise5/17_fix.PNG" width="800" height="400"> 
+
 ### PV_D5SK2_L7 - LVS Layout Vs Verilog For Standard Cell
 ### PV_D5SK2_L8 - LVS For Macros
 ### PV_D5SK2_L9 and L10- LVS Digital PLL - Part 1 and 2
