@@ -152,14 +152,16 @@ Abstract view of AND cell and usefull commands by using lef file:
 - </i>port 1 name</i>
 - </i>port 1 class</i>
 - </i>port 1 use</i>
-<img src="lab2/abstract_view/8.PNG" width="500" height="200"> 
-<img src="lab2/abstract_view/9.PNG" width="500" height="200"> 
-<img src="lab2/abstract_view/10_writing_gds.PNG" width="500" height="200"> 
-<img src="lab2/abstract_view/11_read_gds.PNG" width="500" height="200"> 
-<img src="lab2/abstract_view/12_load_test.PNG" width="500" height="200"> 
-<img src="lab2/abstract_view/13_property.PNG" width="500" height="200"> 
-<img src="lab2/abstract_view/14_writen_sky130_cell.PNG" width="500" height="200"> 
-<img src="lab2/abstract_view/15_read_gds_after_writing.PNG" width="500" height="200"> 
+<img src="lab2/abstract_view/8.PNG" width="800" height="400"> 
+<img src="lab2/abstract_view/9.PNG" width="800" height="400"> 
+Now writing abstract view to gds and reading it back:
+<img src="lab2/abstract_view/10_writing_gds.PNG" width="800" height="400"> 
+<img src="lab2/abstract_view/11_read_gds.PNG" width="800" height="400"> 
+
+<img src="lab2/abstract_view/12_load_test.PNG" width="800" height="400"> 
+<img src="lab2/abstract_view/13_property.PNG" width="800" height="400"> 
+<img src="lab2/abstract_view/14_writen_sky130_cell.PNG" width="800" height="400"> 
+<img src="lab2/abstract_view/15_read_gds_after_writing.PNG" width="800" height="400"> 
 
 PV_D2SK2_L4 - Basic Extraction
 ### PV_D2SK2_L5 - Setup For DRC
