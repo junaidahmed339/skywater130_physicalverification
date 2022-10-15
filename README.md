@@ -333,3 +333,14 @@ Issue if fixed
 <img src="lab3/exercise11/8_m1_density.PNG" width="800" height="400">   
 <img src="lab3/exercise11/9_m2_density.PNG" width="800" height="400">   
 <img src="lab3/exercise11/10_m3_density.PNG" width="800" height="400">   
+
+## Lab5 (LVS labs)
+### PV_D5SK2_L1 - Simple LVS Experiment
+### PV_D5SK2_L2 - LVS With Subcircuits
+### PV_D5SK2_L3 - LVS With Blackboxes Subcircuits
+### PV_D5SK2_L4 - LVS With SPICE Low Level Components
+### PV_D5SK2_L5 and L6 - LVS For Small Analog Block - Power-On Reset - Part 1 and 2
+### PV_D5SK2_L7 - LVS Layout Vs Verilog For Standard Cell
+### PV_D5SK2_L8 - LVS For Macros
+### PV_D5SK2_L9 and L10- LVS Digital PLL - Part 1 and 2
+### PV_D5SK2_L11 - LVS With Property Errors
