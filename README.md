@@ -258,6 +258,12 @@ Fixing deep nwell drc error by creating nwell and connecting diffusion with loca
 <img src="lab3/exercise4/4c_complete_nodrc.PNG" width="800" height="400"> 
 
 ### PV_D3SK2_L5 - Lab For Wells And Deep N-Well
+<img src="lab3/exercise5/1_see_DIFF.PNG" width="800" height="400">  
+<img src="lab3/exercise5/2_see_POLY.PNG" width="800" height="400">  
+<img src="lab3/exercise5/3_see_NSDM_PSDM.PNG" width="800" height="400">  
+<img src="lab3/exercise5/4_see_LVTN.PNG" width="800" height="400">  
+<img src="lab3/exercise5/5_see_HVI_5b.PNG" width="800" height="400">  
+<img src="lab3/exercise5/6_ciff_see_NPC.PNG" width="800" height="400">  
 ### PV_D3SK2_L6 - Lab For Derived Layers
 ### PV_D3SK2_L7 - Lab For Paramterized And PDK Devices
 ### PV_D3SK2_L8 - Lab For Angle Error And Overlap Rule
