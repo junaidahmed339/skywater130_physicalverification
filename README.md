@@ -225,7 +225,7 @@ Measuring width:
 <img src="lab3/exercise1/4_width_measurement.PNG" width="800" height="400">  
 Appying DRC fix:  
 <img src="lab3/exercise1/5_drc_resolved.PNG" width="800" height="400">  
-Spacing problem in 6b:  
+Spacing problem in 1b:  
 <img src="lab3/exercise1/6_b.PNG" width="800" height="400">  
 Fixing DRC error:  
 <img src="lab3/exercise1/6_select_colon.PNG" width="800" height="400">   
@@ -233,17 +233,19 @@ DRC issue resolved:
 <img src="lab3/exercise1/7_b_fix_drc.PNG" width="800" height="400">  
 Fixed width spacing issue in 1c:   
 <img src="lab3/exercise1/8_3_drc_fix.PNG" width="800" height="400">  
-Fixed using notch rule: expanded the box using "A" and then shift+(2,4,6,8)  
+Fixed using notch rule in 1d: expanded the box using "A" and then shift+(2,4,6,8)  
 <img src="lab3/exercise1/9_drc_4_fixed.PNG" width="800" height="400">  
 <img src="lab3/exercise1/10_shift_6.PNG" width="800" height="400">  
 
 ### PV_D3SK2_L3 - Lab For Via Size, Multiple Vias, Via Overlap and Autogenerate Vias 
-Fixing via size issue:   
+In 2a, there is a drc error related to via size, it can be fixed by increasing the size of via:   
 <img src="lab3/exercise2/1.PNG" width="800" height="400">  
 We can use "feedback why" command for error printing  
-<img src="lab3/exercise2/2_feedback_error.PNG" width="800" height="400">  
+<img src="lab3/exercise2/2_feedback_error.PNG" width="800" height="400">   
+
 Fixing error in 2c (via overlapped drc error)
-<img src="lab3/exercise2/3.PNG" width="800" height="400">  
+<img src="lab3/exercise2/3.PNG" width="800" height="400">   
+
 We can switch to above layers by using shift+left click, a via will be added automatically for connection betweeen the layers  
 <img src="lab3/exercise2/4_vias.PNG" width="800" height="400">    
 
@@ -312,8 +314,9 @@ In the layout VIAs are shown at different position but in the inner cell they ex
 DRC errors can be resolved by properly adjusting the blocks:      
 <img src="lab3/exercise7/6.PNG" width="800" height="400"> 
 
-### PV_D3SK2_L9 - Lab For Unimplemented Rules
-<img src="lab3/exercise8/1.PNG" width="800" height="400"> 
+### PV_D3SK2_L9 - Lab For Unimplemented Rules 
+We can see the seal around the GDS:  
+<img src="lab3/exercise8/1.PNG" width="500" height="300"> 
 <img src="lab3/exercise8/2.PNG" width="800" height="400"> 
 <img src="lab3/exercise8/3.PNG" width="800" height="400"> 
 <img src="lab3/exercise8/4_sealring_gds.PNG" width="800" height="400"> 
