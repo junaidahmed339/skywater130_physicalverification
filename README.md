@@ -242,11 +242,11 @@ We can switch to above layers by using shift+left click, a via will be added aut
 ### PV_D3SK2_L3 - Lab For Via Size, Multiple Vias, Via Overlap and Autogenerate Vias  
 Fixing mimimum area rule by expanding box:    
 <img src="lab3/exercise3/1.PNG" width="800" height="400">      
-Filling via with metal to fix drc:  
+Filling via with metal to fix drc:   
 <img src="lab3/exercise3/2_filling_layer_via.PNG" width="800" height="400">      
-DRC error: hole area is small: 
+DRC error: hole area is small:  
 <img src="lab3/exercise3/3_hole_area_is_small.PNG" width="800" height="400">   
-Fixing hole are issue:
+Fixing hole are issue:  
 <img src="lab3/exercise3/4_hole_drc_fixed.PNG" width="800" height="400">   
 
 ### PV_D3SK2_L4 - Lab For Minumum Area Rule And Minimum Hole Rule
