@@ -172,10 +172,14 @@ Now performing basic netlist extraction from magic. Default netlist, with capaci
 - </i>extresist tolerance 10</i>
 - </i>extresist</i>
 
+simple netlist:  
 <img src="lab2/extraction/1_simple_extraction.PNG" width="800" height="400"> 
+Now with capacitances:  
 <img src="lab2/extraction/2_c_extraction.PNG" width="800" height="400"> 
+Now with resisters:
 <img src="lab2/extraction/3_enabled_extresist.PNG" width="800" height="400"> 
 <img src="lab2/extraction/3_enabled_resist.PNG" width="800" height="400"> 
+Overall:  
 <img src="lab2/extraction/4_all_on.PNG" width="800" height="400"> 
 ### PV_D2SK2_L5 - Setup For DRC
 ### PV_D2SK2_L6 - Setup For LVS
