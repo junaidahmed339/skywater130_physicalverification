@@ -31,7 +31,7 @@
    - PV_D3SK2_L10 - Latch-up And Antenna Rules
    - PV_D3SK2_L11 - Lab For Density Rules
 
-4. Lab5 (LVS labs)
+4. Lab4 (LVS labs)
    - PV_D5SK2_L1 - Simple LVS Experiment
    - PV_D5SK2_L2 - LVS With Subcircuits
    - PV_D5SK2_L3 - LVS With Blackboxes Subcircuits
@@ -347,13 +347,16 @@ Now we can find the density of each layer in the layout, it is not recommended t
 <img src="lab3/exercise11/9_m2_density.PNG" width="800" height="400">   
 <img src="lab3/exercise11/10_m3_density.PNG" width="800" height="400">   
 
-## Lab5 (LVS labs)
+## Lab4 (LVS labs)
 ### PV_D5SK2_L1 - Simple LVS Experiment
+Netgen is being used for netlist comparison. We are starting using a very simple netlist as shown below. You can see for now both layout and schematic netlists are matched:  
 <img src="lab4/exercise1/1.PNG" width="800" height="400">   
 <img src="lab4/exercise1/2.PNG" width="800" height="400">   
 
 ### PV_D5SK2_L2 - LVS With Subcircuits
+Now we can subcircuits in the netlists, but error is that it cannot read the subcircuits:
 <img src="lab4/exercise2/1.PNG" width="800" height="400">   
+We have to pass name of cell in quotes for comparison:  
 <img src="lab4/exercise2/2.PNG" width="800" height="400">  
 <img src="lab4/exercise2/3.PNG" width="800" height="400">  
 
