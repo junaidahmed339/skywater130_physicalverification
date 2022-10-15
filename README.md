@@ -77,11 +77,14 @@ magic is checked by using the following commad:
 - </i>shift+Z (zoom out)</i> 
 - </i>E to erase</i> 
 - </i>:erase on command window</i>  
-![This is an image](lab1/3.PNG)  
+
+<img src="lab1/3.PNG" width="800" height="400">  
 
 #### Modifying properties of sky130 standard cells:  
 <img src="lab1/4.PNG" width="800" height="400">  
-<img src="lab1/5.PNG" width="800" height="400">  
+<img src="lab1/5.PNG" width="800" height="400"> 
+
+WE can find particular box info using "what"
 <img src="lab1/6.PNG" width="600" height="400">  
 
 ###  PV_D1SK2_L3 - Creating Simple Schematic In Xschem
